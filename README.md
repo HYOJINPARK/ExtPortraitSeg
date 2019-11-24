@@ -1,5 +1,13 @@
 # Extreme Lightwegith Portrait Segmentation
 
+
+We apologize to close this GitHub due to some issue
+We will open soon.
+However, if you have questions
+please mail to me.
+I am happy to wait for your question mail.
+wolfrun@snu.ac.kr
+
 ## Requirements
 
 - python 3
