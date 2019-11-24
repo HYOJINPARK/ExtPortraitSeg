@@ -72,7 +72,7 @@ The original Baidu dataset link is [here](http://www.cbsr.ia.ac.cn/users/ynyu/da
 
 EG1800 dataset link what I used in [here](https://drive.google.com/file/d/1QmMrv7h-NJHYMnFfsqzqAM8d-G1Tz7VV/view?usp=sharing) 
 
-Our augmented dataset is [here](https://drive.google.com/file/d/1e9nJtGQYy1zdVLIDP7_xALUR1iwOaeuN/view?usp=sharing). 
+Our augmented dataset will be open again. 
 We use all train and val dataset for training segmentation model. 
 
 ## Citation
