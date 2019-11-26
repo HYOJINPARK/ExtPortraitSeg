@@ -3,6 +3,7 @@
 
 We apologize to close this GitHub due to some issue.
 Our code will be released in this [link](https://github.com/clovaai) after security check.
+I guess next week.
 However if you have questions, please mail to me.
 I am happy to wait for your question mail.
 wolfrun@snu.ac.kr
