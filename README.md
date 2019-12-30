@@ -26,7 +26,7 @@ Hyojin Park, Lars Lowe Sjösund, YoungJoon Yoo, Jihwan Bang, Nojun Kwak.
 - Flop : 0.128 G
 - IoU : 94.98
 
-SINet ([paper](https://arxiv.org/abs/1911.09099))
+SINet ([paper](https://arxiv.org/abs/1911.09099)) Accepted in WACV2020 
 
 Hyojin Park, Lars Lowe Sjösund, YoungJoon Yoo, Nicolas Monet, Jihwan Bang, Nojun Kwak
 
