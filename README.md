@@ -67,9 +67,9 @@ We make augmented dataset from Baidu fashion dataset.
 
 The original Baidu dataset link is [here](http://www.cbsr.ia.ac.cn/users/ynyu/dataset/)
 
-EG1800 dataset link what I used in [here](https://drive.google.com/file/d/1QmMrv7h-NJHYMnFfsqzqAM8d-G1Tz7VV/view?usp=sharing) 
+EG1800 dataset link what I used in [here](https://drive.google.com/file/d/18xM3jU2dSp1DiDqEM6PVXattNMZvsX4z/view?usp=sharing) 
 
-Our augmented dataset is [here](https://drive.google.com/file/d/1e9nJtGQYy1zdVLIDP7_xALUR1iwOaeuN/view?usp=sharing). 
+Our augmented dataset is [here](https://drive.google.com/file/d/1zkh7gAhWwoX1nR5GzTzBziG8tgTKtr73/view?usp=sharing). 
 We use all train and val dataset for training segmentation model. 
 
 ## CityScape
